@@ -1,0 +1,9 @@
+/target
+/dist
+/public
+/assets
+*.db
+.cargo
+.idea
+**/.terraform*
+**/*.tfstate*
